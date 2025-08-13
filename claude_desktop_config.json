@@ -4,7 +4,7 @@
         "command": "node",
         "args": ["/Users/renukachintalapati/Downloads/EXA/build/index_upd.js"],
         "env": {
-          "EXA_API_KEY": "0a582968-d605-4fbe-8352-86ca86bb6aa1"
+          "EXA_API_KEY": "Use-Your-Key"
         }
       }
     }
