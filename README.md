@@ -257,13 +257,13 @@ echo '{
 ```
 exa_mcp_server/
 ├── src/
-│   ├── index.ts          # Main server implementation
-│   └── types.ts          # TypeScript type definitions
-├── build/                # Compiled JavaScript output
-├── tests/                # Test files
-├── package.json          # Project configuration
-├── tsconfig.json         # TypeScript configuration
-└── README.md            # This file
+│   └── index.ts              # Main server implementation
+├── .gitignore               # Properly excluding build files
+├── README.md                # Comprehensive documentation ✅
+├── claude_desktop_config.json # Example configuration
+├── package-lock.json        # Dependency lock file
+├── package.json             # Project configuration
+└── tsconfig.json           # TypeScript configuration
 ```
 
 ### Building
