@@ -3,6 +3,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 
+**Link to demo (Proof of Correctness)**: https://drive.google.com/drive/folders/1WZAcuS1ecK2d7VdmgWYsTilwny2oVfzv?dmr=1&ec=wgc-drive-hero-goto 
+
 An enterprise-grade **Model Context Protocol (MCP) server** that provides comprehensive access to [Exa's](https://exa.ai) AI-powered search capabilities. Transform your AI applications with neural search that understands meaning and context, perfect for finding high-quality, relevant content across the web.
 
 ## Features
